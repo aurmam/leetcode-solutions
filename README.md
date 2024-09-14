@@ -1,4 +1,4 @@
 # leetcode-solutions
 
-* [Find the First Duplicate Number](Find the Duplicate Number)
-* [Container With Most Water](Container With Most Water)
+* [Find the First Duplicate Number](Find%20the%20Duplicate%20Number)
+* [Container With Most Water](Container%20With%20Most%20Water)
